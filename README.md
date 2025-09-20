@@ -1,4 +1,4 @@
-#🤖 AI Contract Review Project
+# 🤖 AI Contract Review Project
 
 AI Contract Review Project is an intelligent platform designed to simplify and automate the process of reviewing legal contracts.
 It helps users quickly understand lengthy contracts by highlighting key clauses, obligations, and potential risks, making contract management faster, safer, and more efficient.
